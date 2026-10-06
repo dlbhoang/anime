@@ -1,0 +1,101 @@
+{
+ "series": [
+  {
+   "id": "muwfr8t9gjp14",
+   "name": "Nino"
+  }
+ ],
+ "chars": [
+  {
+   "id": "muwfrk3reg6xw",
+   "sid": "muwfr8t9gjp14",
+   "name": "Nino"
+  }
+ ],
+ "photos": [
+  {
+   "id": "muwfrk4pavuzd",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477832,
+   "w": 720,
+   "h": 1080
+  },
+  {
+   "id": "muwfrk5gf52wk",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477833,
+   "w": 720,
+   "h": 1080
+  },
+  {
+   "id": "muwfrk60w2zua",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477834,
+   "w": 720,
+   "h": 1080
+  },
+  {
+   "id": "muwfrk6pgkh7k",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477835,
+   "w": 720,
+   "h": 1080
+  },
+  {
+   "id": "muwfrk7aj3x1b",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477836,
+   "w": 720,
+   "h": 1080
+  },
+  {
+   "id": "muwfrk7vjem7s",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477837,
+   "w": 720,
+   "h": 960
+  },
+  {
+   "id": "muwfrk8gxb28p",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477838,
+   "w": 720,
+   "h": 960
+  },
+  {
+   "id": "muwfrk8z5vjpu",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477839,
+   "w": 720,
+   "h": 960
+  },
+  {
+   "id": "muwfrk9l7jnkf",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477840,
+   "w": 720,
+   "h": 1080
+  },
+  {
+   "id": "muwfrka5fvlwl",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477841,
+   "w": 720,
+   "h": 960
+  },
+  {
+   "id": "muwfrkaptgjpz",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477842,
+   "w": 720,
+   "h": 1080
+  },
+  {
+   "id": "muwfrkb9n4rue",
+   "cid": "muwfrk3reg6xw",
+   "ts": 1791276477843,
+   "w": 720,
+   "h": 960
+  }
+ ]
+}
